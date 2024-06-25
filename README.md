@@ -44,4 +44,4 @@ It comes with few packages and configurations out of the box.
 - Husky - v9
 - Prettier - v3
 
-Thank you choosing us. Happy coding. 🥳
+Thank you choosing us. Happy coding ! 🥳
